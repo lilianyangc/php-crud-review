@@ -1,0 +1,16 @@
+{
+    "sqltools.connections": [
+        {
+            "askForPassword": false,
+            "connectionTimeout": 60,
+            "database": "test",
+            "dialect": "MySQL",
+            "isActive": true,
+            "isConnected": true,
+            "name": "mysql",
+            "port": 3306,
+            "server": "localhost",
+            "username": "root"
+        }
+    ]
+}
